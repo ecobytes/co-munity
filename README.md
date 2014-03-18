@@ -13,11 +13,11 @@ The first stie was developed as part of the European Learning Parntership Beyond
 
 The site will probably have different types of space constructs, adapting to the needs of the different types of communities of practice. For each use case we should probably create a standard "blueprint", which is a space template with a specific combination of sections/functions. The list below is provisory and probably requires some better aggregation into functional types:
 
- * Open knowledge and open peer review platform
+ * Open peer review
   * Degrowth conference stirring papers review and Group-Assembly Process (http://leipzig.degrowth.org/en/gap)
  * Events participants exchange area
- * Degrowth learning (and training) communities 
-  * GROWL project
+ * Degrowth learning (and training) communities
+  * GROWL: trainers database, course syllabus and events, modules, quality assessment of materials
  * Resource collection and exchange (bibliography and media) communities
   * Permaculture/agroecology (Permateca)
   * Ecological economics classes (professors and students communities)
@@ -29,8 +29,10 @@ The site will probably have different types of space constructs, adapting to the
   * food coops
   * different types of communities of practice
  * Edible cities/local agroecological networks
- * seed guardians and exchange 
-  * connect with plantei.eu
-
+  * mapping alternatives (connect with MMM initiative)
+  * sharing resources (tools, foods)
+  * sharing land and spaces (workshops
+  * seed guardians and exchange (connect with plantei.eu)
+ * Collaborative action-research
 
 Current development/test site: http://dev-co-munity.gotpantheon.com
