@@ -9,20 +9,28 @@ Within this platform, "beyond our backyards" interactions will happen automatica
 
 The third bootstrapping step is the creation of active mechanisms for social networking among the different groups. This can include features like user social relations ("friendship"), social bookmarking, karma points, automated promotion of contents, etc. As this social network develops and new users are attracted, the platform then enter the last bootstrap process of optimization: providing new features on request by the members; allowing the team of developers to adapt, maybe grow, to support the needs of different individuals, collectives, institutions and movements.
 
-A new version, based on Drupal Open Atrium 2 is currently under development, with the support of the GROWL project, the Fourth International Conference on Degrowth for Ecological Sustainability and Social Equity, Ecobytes e.V. and with multiple other collaborations.
+The first stie was developed as part of the European Learning Parntership Beyond Our Backyards, based on Drupal/Open Atrium and hosted under http://agroecol.eu (later http://co-munity.net). A new version, based on Drupal Open Atrium 2 is currently under development, with the support of the GROWL project (http://co-munity.net/growl), the Fourth International Conference on Degrowth for Ecological Sustainability and Social Equity, Ecobytes e.V. and with multiple other collaborations.
 
-The site will probably have different types of space constructs, adapting to the needs of the different types of communities of practice. For each use case we should probably create a standard "blueprint", which is a space template with a specific combination of sections/functions. The list below is provisory and probably requires some aggregation into functional types:
+The site will probably have different types of space constructs, adapting to the needs of the different types of communities of practice. For each use case we should probably create a standard "blueprint", which is a space template with a specific combination of sections/functions. The list below is provisory and probably requires some better aggregation into functional types:
 
- * Open knowledge and open peer review platform for degrowth conference (http://leipzig.degrowth.org) GAP and participants area 
- * GROWL - international degrowth learning communities (http://co-munity.net/growl)
+ * Open knowledge and open peer review platform
+  * Degrowth conference stirring papers review and Group-Assembly Process (http://leipzig.degrowth.org/en/gap)
+ * Events participants exchange area
+ * Degrowth learning (and training) communities 
+  * GROWL project
  * Resource collection and exchange (bibliography and media) communities
   * Permaculture/agroecology (Permateca)
   * Ecological economics classes (professors and students communities)
   * Degrowth reading groups
- * Transition Town initiatives
- * Edible cities
- * seed guardians and exchange communities (connecting with plantei.eu)
- * community supported agriculture (CSA) groups
- * food coops
+ * Organisation management, communication and collaboration
+  * Transition Town groups
+  * Transition Network D/A/CH
+  * community supported agriculture (CSA) groups
+  * food coops
+  * different types of communities of practice
+ * Edible cities/local agroecological networks
+ * seed guardians and exchange 
+  * connect with plantei.eu
+
 
 Current development/test site: http://dev-co-munity.gotpantheon.com
