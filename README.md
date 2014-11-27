@@ -1,7 +1,13 @@
-co-munity
-=========
+Please find the current live version @ https://degrowth.co-munity.net
 
-The co-munity website is based in the idea that collective action requires the approach of identities, a process which is supported by the existence and creation of common bonds. The atomised nature of the social movements and initiatives around degrowth, food, commons, among others is driven by its rapid expansion. New initiatives - urban gardens, CSAs, communities, repair cafés, transition towns - are appearing all over Europe and the world. Bringing them to interact on a platform for exchange requires providing useful tools for practicioners, activists and academics, for personal or collective use.
+Further information, feature requests and issue tracker @ https://degrowth.co-munity.net/co-munity
+
+We are looking for willing developers, site builders, designers and beta users (individuals and collectives). Contact us or join the co-munity space if you want to be active.
+
+About co-munity
+===============
+
+The co-munity platform is based in the idea that collective action requires the approach of identities, a process which is supported by the existence and creation of common bonds. The atomised nature of the social movements and initiatives around degrowth, food, commons, among others is driven by its rapid expansion. New initiatives - urban gardens, CSAs, communities, repair cafés, transition towns - are appearing all over Europe and the world. Bringing them to interact on a platform for exchange requires providing useful tools for practicioners, activists and academics, for personal or collective use.
 
 This platform develops in a similar way to a bootstrapping process, proceeding stepwise, based on little resources and using whatever exists out there to progressively bring people in contact with each other on virtual communities with some affinity. This is were the bootstrapping starts: we need to create tools for general use, that will allow people with similar interests and needs to converge on a place. This is provided by the group structure, which provides, for each group, a set of features, including discussion/forum, documentation, project management, collaborative edition, reference manager, webforms. The tools provided for a group - that anyone can create - help to fill a gap in the organization of the initiatives, resulting on an increased use of the platform.
 
