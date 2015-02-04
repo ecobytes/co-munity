@@ -1,8 +1,10 @@
-Please find the current live version @ https://degrowth.co-munity.net
+Please find the current live version @ http://co-munity.net
 
-Further information, feature requests and issue tracker @ https://degrowth.co-munity.net/co-munity
+Further information, feature requests and issue tracker @ http://co-munity.net/co-munity
 
 We are looking for willing developers, site builders, designers and beta users (individuals and collectives). Contact us or join the co-munity space if you want to be active.
+
+Consider joining one of our development hackathons or organising one for your target communities! http://co-munity.net/p/co-munity-hackathons
 
 About co-munity
 ===============
@@ -41,4 +43,3 @@ The site will probably have different types of space constructs, adapting to the
   * seed guardians and exchange (connect with plantei.eu)
  * Collaborative action-research
 
-Current development/test site: http://dev-co-munity.gotpantheon.com
